@@ -2,7 +2,7 @@ import "./style.scss"
 
 function Travels() {
     return ( 
-        <div className="Main-wrapper">
+        <div className="Travel-wrapper">
             <h1>This is the Travels page</h1>
         </div>
      );
